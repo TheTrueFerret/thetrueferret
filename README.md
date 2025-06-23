@@ -1,4 +1,4 @@
-## 👋 Yo, my name is Jarno Fret, AKA TrueFerret.
+## 👋 Yo, I'm Jarno Fret, AKA TrueFerret.
 
 💙 I am from belgium, i am a creative software engineer passionate about media and tech.
 
